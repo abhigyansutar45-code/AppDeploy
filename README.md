@@ -1,4 +1,4 @@
-## 🚀 AppDeploy — Next-Generation App Development & Deployment
+# 🚀 AppDeploy — Next-Generation App Development & Deployment
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00D4FF&height=230&section=header&text=AppDeploy&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Build%20%7C%20Create%20%7C%20Deploy%20%7C%20Innovate&descAlignY=60&descSize=20" width="100%"/>
